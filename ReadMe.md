@@ -8,12 +8,12 @@ This was a university project, it was done with a group of three (me included!).
 
 
 # Server(s):
-There are two variations for the server, one does load balancing using round robin and the other uses a threshold algorithm.
+There are two variations for the server. One does load balancing using round robin. The Other uses a threshold algorithm.
 
 ## To Run:
     $cargo Run <arg1> <arg2>
 
-The Server takes in three arguments:
+The Server takes in two arguments:
 * arg1: is the server id (please make sure to start from 0).
 * arg2: is the fileName that will store logs about the server.
 
