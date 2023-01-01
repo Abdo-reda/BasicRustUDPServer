@@ -4,7 +4,7 @@ This is a simple Server and Client made in Rust which uses UDP. If you want to r
 * There is a report that contains a much more detailed explanation of the project.
 
 ## Credits:
-This was a university project, it was done with a group of three (me included!). Thanks for Ahmed Shaaban and Nashaat <3.
+This was a university project, it was done with a group of three (me included!). Thanks for Ahmed Shaaban and N42at <3.
 
 
 # Server(s):
